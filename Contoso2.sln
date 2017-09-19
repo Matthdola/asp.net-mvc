@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso2", "Contoso2\Contoso2.csproj", "{CBDAF2C4-28A5-4075-8E6C-0358E8305E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDAF2C4-28A5-4075-8E6C-0358E8305E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDAF2C4-28A5-4075-8E6C-0358E8305E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDAF2C4-28A5-4075-8E6C-0358E8305E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDAF2C4-28A5-4075-8E6C-0358E8305E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
